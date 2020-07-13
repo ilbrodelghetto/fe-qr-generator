@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fe-qr-generator"
+    }
+  },
+  "defaultProject": "fe-qr-generator",
+  "cli": {
+    "analytics": "71ca87b1-a2c8-46a3-bc10-e32e9586689e"
+  }
 }
